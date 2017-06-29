@@ -1,0 +1,24 @@
+{
+  "name": "news-scraper",
+  "version": "1.0.0",
+  "description": "news scraper app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "walidpitt"
+  },
+  "author": "wali pitt",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.11.0",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0"
+  }
+}
